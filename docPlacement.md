@@ -16,7 +16,7 @@ Here’s a quick comparison:
 | **Repo README.md**             | Users & devs of this repo  | Repo/package-level                 | What this project is, how to run/develop/test, config, examples        | Org-wide runbooks, cross-repo processes, long-form tutorials          |
 | **Sphinx (org docs)**          | Org users & operators      | System/procedure-level, cross-repo | Runbooks, SOPs, onboarding, “how this fits in our environment”         | Very low-level implementation notes, code minutiae                    |
 
-A simple mantra:
+Rule of thumb:
 
 * **Code comments**: *How & why the code works*
 * **README**: *How to use and work on this repo*
